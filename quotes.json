@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "You forgot who you were. I'm just here to remind you.",
+    "author": "Beautiful Unique Storm",
+    "tone": "motivational-baddie",
+    "tags": ["self-worth", "confidence", "healing"]
+  },
+  {
+    "id": 2,
+    "text": "They tried to break you, but they built your backbone instead.",
+    "author": "Beautiful Unique Storm",
+    "tone": "survivor-strength",
+    "tags": ["resilience", "trauma-survivor", "strength"]
+  },
+  {
+    "id": 3,
+    "text": "If loving you hurts, then the love is cheap. You deserve luxury treatment, inside and out.",
+    "author": "Passion",
+    "tone": "petty-baddie",
+    "tags": ["relationships", "self-respect", "standards"]
+  },
+  {
+    "id": 4,
+    "text": "Broken women do not stay broken. We rise, we rebuild, and we walk different.",
+    "author": "Beautiful Unique Storm",
+    "tone": "lotus-rising",
+    "tags": ["healing", "empowerment", "lotus-rising"]
+  },
+  {
+    "id": 5,
+    "text": "Act right or move around. My peace is not up for negotiation.",
+    "author": "Passion",
+    "tone": "hood-funny",
+    "tags": ["boundaries", "peace", "baddie-energy"]
+  }
+]
